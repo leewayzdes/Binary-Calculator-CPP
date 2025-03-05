@@ -35,10 +35,10 @@
 ## Примеры работы.
 
 ### Пример ввода:
-*Enter the size (8, 16, 32): 8*
+*Enter the size (8, 16, 32): 8*   
 *Enter postfix expression: 5 3 +*
 
 ### Вывод:
 *Result:*
-*00001000 (Binary)*
+*00001000 (Binary)*   
 *8 (Decimal)*
