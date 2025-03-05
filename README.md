@@ -39,6 +39,6 @@
 *Enter postfix expression: 5 3 +*
 
 ### Вывод:
-*Result:*
+*Result:*   
 *00001000 (Binary)*   
 *8 (Decimal)*
